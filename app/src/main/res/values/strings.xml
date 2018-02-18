@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Kitchen</string>
+    <string-array name="tables_array">
+    <item>Table A</item>
+    <item>Table B</item>
+</string-array>
+<string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
